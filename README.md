@@ -51,7 +51,7 @@ For more details, refer to the [architecture diagram](./docs/architecture.png).
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/your-project-name.git
+   git clone https://github.com/MOON-BOI-STUDIOS/mbu-speedrun.git
    ```
 
 2. **Open in Unity**:
