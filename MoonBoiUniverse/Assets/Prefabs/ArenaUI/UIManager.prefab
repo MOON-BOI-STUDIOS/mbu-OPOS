@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4123963747465593177
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4123963747465593175}
+  - component: {fileID: 4123963747465593176}
+  m_Layer: 0
+  m_Name: UIManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 2147483647
+  m_IsActive: 1
+--- !u!4 &4123963747465593175
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4123963747465593177}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1212.3237, y: 663.5352, z: -0.12221384}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4123963747465593176
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4123963747465593177}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01e483a0570ba4340a6ac894b3a064a0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 0}
+  coins: {fileID: 0}
+  musicLevel: {fileID: 0}
+  swordLevel: {fileID: 0}
+  specialLevel: {fileID: 0}
+  maxHealth: {fileID: 0}
+  fishesUI: {fileID: 0}
+  roundIndicator: {fileID: 0}
+  swordPrice: {fileID: 0}
+  specialPrice: {fileID: 0}
+  healthPrice: {fileID: 0}
+  musicPrice: {fileID: 0}
+  musicIcon: {fileID: 0}
+  swordIcon: {fileID: 0}
+  swordYellow: {fileID: -942470250, guid: f128382c41cffbd47bfe6b4298ef2fc8, type: 3}
+  swordBlue: {fileID: 797726377, guid: 9e4e5921046ffc145876bcb27e9ecf30, type: 3}
+  swordBlack: {fileID: -1524924496, guid: b348d3a990635e24ba0d66f2023c41e7, type: 3}
+  swordWhite: {fileID: 1332030962, guid: 3714c9e3cfbcc7b419663adbfe9925f3, type: 3}
+  swordPurple: {fileID: -773612527, guid: e1000acfdaab302478b82a14e89dd8fc, type: 3}

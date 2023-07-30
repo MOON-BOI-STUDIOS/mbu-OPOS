@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: f523fe4354c7f5541b672c3ecb9b7b85
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/BattleArena.unity
+    guid: 2a8e882add12bb54791f3a3bde61430c
+  - enabled: 1
+    path: Assets/Scenes/FishingArea.unity
+    guid: 4a247c41596b2e845926a6f7c5a942bb
+  - enabled: 1
+    path: Assets/Scenes/BonkArcade.unity
+    guid: a0a27c7eae1e0bf479d2385dc8826025
+  - enabled: 1
+    path: Assets/Scenes/BikeRace.unity
+    guid: 5c602770ef2ac1b4ea32f1b373715869
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: fca83694f88847148953a9f656a33fb8, type: 2}

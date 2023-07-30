@@ -1,0 +1,601 @@
+fileFormatVersion: 2
+guid: 2c1d7a838059bea4d994496bc1c9a587
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dre_specialattackleft_120x96_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 10
+        width: 45
+        height: 83
+      alignment: 9
+      pivot: {x: 0.62, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a6d1d726afc114ba26a58bc06a3934
+      internalID: 1604247697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dre_specialattackleft_120x96_6
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 9
+        width: 90
+        height: 87
+      alignment: 9
+      pivot: {x: 0.87062716, y: -0.006390133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764f64b2bb2a05248accbf4a6ad81e87
+      internalID: -709231570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dre_specialattackleft_120x96_13
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 10
+        width: 68
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5531419, y: -0.001957477}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c54e392913d8b4bb9876d73d47b205
+      internalID: -594154680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dre_specialattackleft_120x96_14
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 10
+        width: 63
+        height: 74
+      alignment: 9
+      pivot: {x: 0.612512, y: -0.003756304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5def35c71332ca49a6b6167d738424a
+      internalID: -387954384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dre_specialattackleft_120x96_16
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 7
+        width: 81
+        height: 73
+      alignment: 9
+      pivot: {x: 0.47597778, y: -0.000000012887491}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4425eb7298775c041ba54d36168dd3ab
+      internalID: 1864707497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dre_specialattackleft_120x96_17
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 9
+        width: 69
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b101b36a0fe60954ea6bad0fe0542de8
+      internalID: 311868775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dre_specialattackleft_120x96_18
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 8
+        width: 95
+        height: 74
+      alignment: 9
+      pivot: {x: 0.7487086, y: 0.0036575042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511f13d58d2baa44bbbbdd000492fcb5
+      internalID: 186750582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dre_specialattackleft_120x96_19
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 8
+        width: 58
+        height: 74
+      alignment: 9
+      pivot: {x: 0.59105814, y: 0.0075128274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f60225ca0417c04d955dc94d845443e
+      internalID: 1750853843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dre_specialattackleft_120x96_21
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 10
+        width: 57
+        height: 73
+      alignment: 9
+      pivot: {x: 0.4994389, y: 0.0056345994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e80e52bc9e2974ab62de86bafb0cbd
+      internalID: 1212775770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dre_specialattackleft_120x96_22
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 10
+        width: 67
+        height: 73
+      alignment: 9
+      pivot: {x: 0.44, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47518716df51e34495b54bb3172bf55
+      internalID: -1231352814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dre_specialattackleft_120x96_24
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 10
+        width: 92
+        height: 66
+      alignment: 9
+      pivot: {x: 0.47582808, y: 0.000000015381843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160ef014fe8c1a845aeca1da121bab12
+      internalID: 2106736530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dre_specialattackleft_120x96_26
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 9
+        width: 65
+        height: 62
+      alignment: 9
+      pivot: {x: 0.7415161, y: 0.000000015381843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc89aaaff1c56243b6dbac41315b861
+      internalID: -523579081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dre_specialattackleft_120x96_27
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 10
+        width: 61
+        height: 61
+      alignment: 9
+      pivot: {x: 0.7688569, y: 0.000000078170025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344c5cf1c412a8d43927d0bcae61272b
+      internalID: 1066421862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dre_specialattackleft_120x96_28
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 8
+        width: 78
+        height: 63
+      alignment: 9
+      pivot: {x: 0.7234327, y: 0.008824591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6435f0b15db376f40b548ec6c40887a4
+      internalID: -444395729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dre_specialattackleft_120x96_29
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 9
+        width: 46
+        height: 67
+      alignment: 9
+      pivot: {x: 0.7175426, y: 0.000000084147736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931227a7070f6bb4d970f98154983cfb
+      internalID: -461096487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dre_specialattackleft_120x96_31
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 9
+        width: 45
+        height: 64
+      alignment: 9
+      pivot: {x: 0.7131103, y: 0.008553064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93af49128078e1a47ad2c579b6c94846
+      internalID: -1759273795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dre_specialattackleft_120x96_34
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 8
+        width: 67
+        height: 66
+      alignment: 9
+      pivot: {x: 0.82775694, y: 0.0021059297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d24bf1d31167b04ea00773e8e3ff836
+      internalID: -1763049776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dre_specialattackleft_120x96_37
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 8
+        width: 51
+        height: 54
+      alignment: 9
+      pivot: {x: 0.59538, y: -0.002573702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ba23d02a5819a4eb22b449dca21fb1
+      internalID: -1286949334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Dre_specialattackleft_120x96_31: -1759273795
+      Dre_specialattackleft_120x96_15: 1820937389
+      Dre_specialattackleft_120x96_16: 1864707497
+      Dre_specialattackleft_120x96_28: -444395729
+      Dre_specialattackleft_120x96_21: 1212775770
+      Dre_specialattackleft_120x96_24: 2106736530
+      Dre_specialattackleft_120x96_1: 581427055
+      Dre_specialattackleft_120x96_38: -2048840768
+      Dre_specialattackleft_120x96_57: -945999900
+      Dre_specialattackleft_120x96_32: 529248403
+      Dre_specialattackleft_120x96_44: 1916286970
+      Dre_specialattackleft_120x96_6: -709231570
+      Dre_specialattackleft_120x96_13: -594154680
+      Dre_specialattackleft_120x96_23: -895231387
+      Dre_specialattackleft_120x96_7: -1910507695
+      Dre_specialattackleft_120x96_75: -845041006
+      Dre_specialattackleft_120x96_2: -2008217095
+      Dre_specialattackleft_120x96_12: -898198519
+      Dre_specialattackleft_120x96_56: 371936550
+      Dre_specialattackleft_120x96_70: -44747477
+      Dre_specialattackleft_120x96_34: -1763049776
+      Dre_specialattackleft_120x96_51: 1996170848
+      Dre_specialattackleft_120x96_36: 391594857
+      Dre_specialattackleft_120x96_42: 1059758030
+      Dre_specialattackleft_120x96_60: -237535550
+      Dre_specialattackleft_120x96_45: 1541254657
+      Dre_specialattackleft_120x96_49: 1064942395
+      Dre_specialattackleft_120x96_53: 862022824
+      Dre_specialattackleft_120x96_67: 2103028580
+      Dre_specialattackleft_120x96_54: 1896589649
+      Dre_specialattackleft_120x96_0: 1604247697
+      Dre_specialattackleft_120x96_18: 186750582
+      Dre_specialattackleft_120x96_10: 978869389
+      Dre_specialattackleft_120x96_14: -387954384
+      Dre_specialattackleft_120x96_52: 889677463
+      Dre_specialattackleft_120x96_39: 1678011583
+      Dre_specialattackleft_120x96_50: 878610042
+      Dre_specialattackleft_120x96_63: -235102692
+      Dre_specialattackleft_120x96_62: -347019833
+      Dre_specialattackleft_120x96_58: 503556871
+      Dre_specialattackleft_120x96_66: 496139841
+      Dre_specialattackleft_120x96_29: -461096487
+      Dre_specialattackleft_120x96_17: 311868775
+      Dre_specialattackleft_120x96_43: -1200477066
+      Dre_specialattackleft_120x96_55: 1668275472
+      Dre_specialattackleft_120x96_37: -1286949334
+      Dre_specialattackleft_120x96_68: -107984096
+      Dre_specialattackleft_120x96_46: 1895294214
+      Dre_specialattackleft_120x96_65: 1298311002
+      Dre_specialattackleft_120x96_26: -523579081
+      Dre_specialattackleft_120x96_35: 1345286827
+      Dre_specialattackleft_120x96_72: -572751449
+      Dre_specialattackleft_120x96_19: 1750853843
+      Dre_specialattackleft_120x96_59: -293547644
+      Dre_specialattackleft_120x96_25: -427869874
+      Dre_specialattackleft_120x96_22: -1231352814
+      Dre_specialattackleft_120x96_69: -1527907467
+      Dre_specialattackleft_120x96_11: -1632980127
+      Dre_specialattackleft_120x96_5: 1753224432
+      Dre_specialattackleft_120x96_9: 1921912412
+      Dre_specialattackleft_120x96_71: -1767034935
+      Dre_specialattackleft_120x96_73: -828156853
+      Dre_specialattackleft_120x96_41: -1682396332
+      Dre_specialattackleft_120x96_3: -761538542
+      Dre_specialattackleft_120x96_4: -1650923620
+      Dre_specialattackleft_120x96_30: 2145919245
+      Dre_specialattackleft_120x96_20: -48605746
+      Dre_specialattackleft_120x96_47: -92106224
+      Dre_specialattackleft_120x96_33: -814287058
+      Dre_specialattackleft_120x96_8: -2101599391
+      Dre_specialattackleft_120x96_61: -548053301
+      Dre_specialattackleft_120x96_40: -65711997
+      Dre_specialattackleft_120x96_74: 718568861
+      Dre_specialattackleft_120x96_64: -1360737012
+      Dre_specialattackleft_120x96_27: 1066421862
+      Dre_specialattackleft_120x96_48: -1077661917
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

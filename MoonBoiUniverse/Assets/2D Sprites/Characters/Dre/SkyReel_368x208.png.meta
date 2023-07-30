@@ -1,0 +1,958 @@
+fileFormatVersion: 2
+guid: f559a6652f0e8004d8c2f56f2a6a3027
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SkyReel_368x208_0
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 35
+        width: 101
+        height: 86
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a95b6ca3fc59314989b9d6c58a577ae
+      internalID: 244954505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkyReel_368x208_1
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 35
+        width: 82
+        height: 86
+      alignment: 9
+      pivot: {x: 0.24, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa78abff5f4539444b99653ef7983184
+      internalID: -658520788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkyReel_368x208_3
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 35
+        width: 101
+        height: 86
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c552a74f86ca54db22f01158867254
+      internalID: 1882742009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkyReel_368x208_4
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 35
+        width: 101
+        height: 87
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90631ea33a00774a9ae178f9d73589c
+      internalID: 1177794209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkyReel_368x208_5
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 35
+        width: 101
+        height: 87
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e125158dcdcffac41a28c49999b9e9a5
+      internalID: 1955271566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkyReel_368x208_6
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 35
+        width: 101
+        height: 87
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88d67a9cccc11b43a12a9e606f8800e
+      internalID: -170318470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkyReel_368x208_7
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 35
+        width: 101
+        height: 87
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7e98af93c16904bbb912c39c2012d5
+      internalID: 980541825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkyReel_368x208_8
+      rect:
+        serializedVersion: 2
+        x: 2726
+        y: 35
+        width: 102
+        height: 87
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919772e93bed46b43b33569dac7e4314
+      internalID: 792640675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkyReel_368x208_9
+      rect:
+        serializedVersion: 2
+        x: 3094
+        y: 35
+        width: 85
+        height: 87
+      alignment: 9
+      pivot: {x: 0.24, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b518d29bd7e03db42b34b875d10a1fab
+      internalID: -1314502731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkyReel_368x208_10
+      rect:
+        serializedVersion: 2
+        x: 3463
+        y: 35
+        width: 84
+        height: 87
+      alignment: 9
+      pivot: {x: 0.24, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a046d3f4e5dfb458b19cc47427788c
+      internalID: -762335128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkyReel_368x208_11
+      rect:
+        serializedVersion: 2
+        x: 3831
+        y: 35
+        width: 81
+        height: 86
+      alignment: 9
+      pivot: {x: 0.24, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b0f8221d662a447acce8a62517d608
+      internalID: 1327153402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkyReel_368x208_12
+      rect:
+        serializedVersion: 2
+        x: 4199
+        y: 35
+        width: 81
+        height: 86
+      alignment: 9
+      pivot: {x: 0.24, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9fef72e01010e4fb704259687f4ffb
+      internalID: -1026550698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkyReel_368x208_13
+      rect:
+        serializedVersion: 2
+        x: 4567
+        y: 35
+        width: 79
+        height: 86
+      alignment: 9
+      pivot: {x: 0.24, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9f54e4cb5af9a428f81ef1f090eada
+      internalID: 1493466235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkyReel_368x208_14
+      rect:
+        serializedVersion: 2
+        x: 4935
+        y: 35
+        width: 77
+        height: 86
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3f27e5c3696524eb4e86f9e44d0327
+      internalID: 2079332928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkyReel_368x208_15
+      rect:
+        serializedVersion: 2
+        x: 5303
+        y: 35
+        width: 83
+        height: 86
+      alignment: 9
+      pivot: {x: 0.23, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d4baadfbd06ce4196f16edf739f4a3
+      internalID: 1110204206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkyReel_368x208_16
+      rect:
+        serializedVersion: 2
+        x: 5671
+        y: 35
+        width: 85
+        height: 87
+      alignment: 9
+      pivot: {x: 0.23, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e128897e4842349ab326b2ec9a94f3
+      internalID: -1134293073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkyReel_368x208_17
+      rect:
+        serializedVersion: 2
+        x: 6039
+        y: 35
+        width: 79
+        height: 87
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad95ee5452084b4fb27b876c7af159b
+      internalID: 737351626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkyReel_368x208_18
+      rect:
+        serializedVersion: 2
+        x: 6407
+        y: 35
+        width: 85
+        height: 87
+      alignment: 9
+      pivot: {x: 0.23, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d295d9e6c2bad841ae8b1befb9ab09f
+      internalID: -71200719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkyReel_368x208_19
+      rect:
+        serializedVersion: 2
+        x: 6775
+        y: 35
+        width: 79
+        height: 87
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad8c0e9181a94f4ba917a17fd5a7960
+      internalID: -563256165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkyReel_368x208_20
+      rect:
+        serializedVersion: 2
+        x: 7142
+        y: 35
+        width: 86
+        height: 87
+      alignment: 9
+      pivot: {x: 0.24, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafa6b4955ad8624b926e69bafd5be9a
+      internalID: -791887732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkyReel_368x208_21
+      rect:
+        serializedVersion: 2
+        x: 7510
+        y: 35
+        width: 80
+        height: 87
+      alignment: 9
+      pivot: {x: 0.27, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981024c9eb5217344aa2e89c90e4f0d0
+      internalID: -1964435482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkyReel_368x208_22
+      rect:
+        serializedVersion: 2
+        x: 7879
+        y: 35
+        width: 83
+        height: 87
+      alignment: 9
+      pivot: {x: 0.23, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe5a12105a58dd40bfc9d92cb58fbac
+      internalID: -1734511222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkyReel_368x208_23
+      rect:
+        serializedVersion: 2
+        x: 8247
+        y: 35
+        width: 85
+        height: 86
+      alignment: 9
+      pivot: {x: 0.23, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85c3f10630b85f4a8a38f09cf775ec4
+      internalID: 498381738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkyReel_368x208_24
+      rect:
+        serializedVersion: 2
+        x: 8615
+        y: 35
+        width: 84
+        height: 86
+      alignment: 9
+      pivot: {x: 0.23, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009a9259c0505bd46986d1b52ecb191e
+      internalID: -1698910880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkyReel_368x208_25
+      rect:
+        serializedVersion: 2
+        x: 8983
+        y: 35
+        width: 79
+        height: 86
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d2562533f244f49a198f8bb5155f59
+      internalID: -444683913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkyReel_368x208_26
+      rect:
+        serializedVersion: 2
+        x: 9351
+        y: 35
+        width: 79
+        height: 86
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a247cf2d2738fb745b2ddcadf322082a
+      internalID: -1887636002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkyReel_368x208_27
+      rect:
+        serializedVersion: 2
+        x: 9719
+        y: 35
+        width: 79
+        height: 86
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9555ca1414b022c409975e195df6beab
+      internalID: 907218497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkyReel_368x208_28
+      rect:
+        serializedVersion: 2
+        x: 10087
+        y: 35
+        width: 79
+        height: 87
+      alignment: 9
+      pivot: {x: 0.27, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d9aad2ef4b46d4ba8f075c801ea726
+      internalID: 1504576305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkyReel_368x208_29
+      rect:
+        serializedVersion: 2
+        x: 10455
+        y: 35
+        width: 79
+        height: 87
+      alignment: 9
+      pivot: {x: 0.24, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fdf81668d7d3149ac7619fba478b3f
+      internalID: 1321587480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkyReel_368x208_30
+      rect:
+        serializedVersion: 2
+        x: 10823
+        y: 35
+        width: 79
+        height: 87
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcec4e6e70900b4e9870b07ceac1fb9
+      internalID: -569306597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkyReel_368x208_31
+      rect:
+        serializedVersion: 2
+        x: 11191
+        y: 35
+        width: 84
+        height: 87
+      alignment: 9
+      pivot: {x: 0.23, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97794a5f1c7da884b841b45e6725d3c5
+      internalID: 40124645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkyReel_368x208_32
+      rect:
+        serializedVersion: 2
+        x: 11558
+        y: 35
+        width: 92
+        height: 87
+      alignment: 9
+      pivot: {x: 0.22, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f123676f5e18b24bac51f42ac37cd65
+      internalID: 1624371671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkyReel_368x208_33
+      rect:
+        serializedVersion: 2
+        x: 11926
+        y: 35
+        width: 94
+        height: 87
+      alignment: 9
+      pivot: {x: 0.23, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e5abbc61c3c504b9f37bdf4909706d
+      internalID: -1303195501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkyReel_368x208_34
+      rect:
+        serializedVersion: 2
+        x: 12295
+        y: 35
+        width: 75
+        height: 87
+      alignment: 9
+      pivot: {x: 0.27, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff529fa43f7f42c4c940b97462ddbdca
+      internalID: -1307048630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkyReel_368x208_35
+      rect:
+        serializedVersion: 2
+        x: 12663
+        y: 35
+        width: 75
+        height: 86
+      alignment: 9
+      pivot: {x: 0.26, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3fb77497aa72d43bdb7b30fc8f8430
+      internalID: 1720476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkyReel_368x208_36
+      rect:
+        serializedVersion: 2
+        x: 13031
+        y: 35
+        width: 75
+        height: 86
+      alignment: 9
+      pivot: {x: 0.26, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6db965ccd2449e49853607758080b72
+      internalID: -93354906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SkyReel_368x208_16: -1134293073
+      SkyReel_368x208_26: -1887636002
+      SkyReel_368x208_52: 1073806819
+      SkyReel_368x208_40: -2036137066
+      SkyReel_368x208_5: 1955271566
+      SkyReel_368x208_15: 1110204206
+      SkyReel_368x208_19: -563256165
+      SkyReel_368x208_10: -762335128
+      SkyReel_368x208_24: -1698910880
+      SkyReel_368x208_37: -1442242574
+      SkyReel_368x208_27: 907218497
+      SkyReel_368x208_51: -1046051477
+      SkyReel_368x208_11: 1327153402
+      SkyReel_368x208_4: 1177794209
+      SkyReel_368x208_28: 1504576305
+      SkyReel_368x208_39: -1331262933
+      SkyReel_368x208_9: -1314502731
+      SkyReel_368x208_3: 1882742009
+      SkyReel_368x208_12: -1026550698
+      SkyReel_368x208_14: 2079332928
+      SkyReel_368x208_38: 333535417
+      SkyReel_368x208_41: -504137236
+      SkyReel_368x208_29: 1321587480
+      SkyReel_368x208_31: 40124645
+      SkyReel_368x208_22: -1734511222
+      SkyReel_368x208_42: 127239731
+      SkyReel_368x208_45: -1588186832
+      SkyReel_368x208_32: 1624371671
+      SkyReel_368x208_43: 1984846119
+      SkyReel_368x208_13: 1493466235
+      SkyReel_368x208_30: -569306597
+      SkyReel_368x208_46: -898390525
+      SkyReel_368x208_7: 980541825
+      SkyReel_368x208_33: -1303195501
+      SkyReel_368x208_48: -474417918
+      SkyReel_368x208_53: 1600197434
+      SkyReel_368x208_36: -93354906
+      SkyReel_368x208_8: 792640675
+      SkyReel_368x208_25: -444683913
+      SkyReel_368x208_35: 1720476
+      SkyReel_368x208_18: -71200719
+      SkyReel_368x208_50: -1365914494
+      SkyReel_368x208_2: -1831656467
+      SkyReel_368x208_6: -170318470
+      SkyReel_368x208_17: 737351626
+      SkyReel_368x208_20: -791887732
+      SkyReel_368x208_44: 1035846526
+      SkyReel_368x208_21: -1964435482
+      SkyReel_368x208_49: 926379756
+      SkyReel_368x208_1: -658520788
+      SkyReel_368x208_23: 498381738
+      SkyReel_368x208_34: -1307048630
+      SkyReel_368x208_0: 244954505
+      SkyReel_368x208_54: -405879693
+      SkyReel_368x208_47: 2128031978
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

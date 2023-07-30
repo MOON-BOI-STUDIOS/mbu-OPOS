@@ -1,0 +1,596 @@
+fileFormatVersion: 2
+guid: ac4f274b177bd9d488b116fac33a3ba4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dre_specialattack_120x96_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 9
+        width: 46
+        height: 86
+      alignment: 9
+      pivot: {x: 0.6225236, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23341db307a1424cae877798048e8c7
+      internalID: 2126803739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dre_specialattack_120x96_9
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 6
+        width: 91
+        height: 90
+      alignment: 9
+      pivot: {x: 0.31, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30dde59d12bc9fa4a879b0cbb5733884
+      internalID: 205638703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dre_specialattack_120x96_14
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 9
+        width: 68
+        height: 74
+      alignment: 9
+      pivot: {x: 0.74, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5881aa7cea07f4796763144b136e45
+      internalID: 1674484177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dre_specialattack_120x96_15
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 9
+        width: 68
+        height: 71
+      alignment: 9
+      pivot: {x: 0.62, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ce9dd39309d934494345a73981657f
+      internalID: -1689768758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dre_specialattack_120x96_16
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 9
+        width: 65
+        height: 80
+      alignment: 9
+      pivot: {x: 0.54, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55bc037526177b4e9d232f0009d9885
+      internalID: 1866411850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dre_specialattack_120x96_17
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 9
+        width: 92
+        height: 68
+      alignment: 9
+      pivot: {x: 0.62, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8293718e815cc6b40a46d4225d264b5a
+      internalID: -1075509915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dre_specialattack_120x96_19
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 9
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6003aeaa4173981409e477ac53263109
+      internalID: -182885329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dre_specialattack_120x96_20
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 9
+        width: 63
+        height: 62
+      alignment: 9
+      pivot: {x: 0.45, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2993d2c97eab1094b8db6e2974ba5fad
+      internalID: -1301298691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dre_specialattack_120x96_21
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 7
+        width: 84
+        height: 64
+      alignment: 9
+      pivot: {x: 0.34, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea8e07581db4834eb57d8bfe3fa506b
+      internalID: 563586423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dre_specialattack_120x96_22
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 7
+        width: 80
+        height: 75
+      alignment: 9
+      pivot: {x: 0.61, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25faab2267af024ebe8c45ea11ccf7d
+      internalID: -1039009028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dre_specialattack_120x96_23
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 9
+        width: 72
+        height: 76
+      alignment: 9
+      pivot: {x: 0.66, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b7d26baa7c66f43b0a10bfa7d26ebb
+      internalID: 2088670144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dre_specialattack_120x96_25
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 8
+        width: 47
+        height: 65
+      alignment: 9
+      pivot: {x: 0.52, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b488b2e7e029bb1449ee109c339a6e68
+      internalID: 1322551094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dre_specialattack_120x96_26
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 6
+        width: 96
+        height: 76
+      alignment: 9
+      pivot: {x: 0.43, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a84d6a417239074ead6f1819ec6e10b
+      internalID: -1425580871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dre_specialattack_120x96_27
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 9
+        width: 60
+        height: 73
+      alignment: 9
+      pivot: {x: 0.64, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa3d74fa2d70254495709750adeaa2f
+      internalID: -2052533782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dre_specialattack_120x96_28
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 8
+        width: 67
+        height: 66
+      alignment: 9
+      pivot: {x: 0.34, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f63244348eb910488b8e55bdc75fbaa
+      internalID: 1767653246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dre_specialattack_120x96_29
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 9
+        width: 62
+        height: 73
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f842e9cb0f20e469c5f5733f08fd01
+      internalID: 747981805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dre_specialattack_120x96_30
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 8
+        width: 45
+        height: 65
+      alignment: 9
+      pivot: {x: 0.51, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c026b3311ddb34298d4a917825180c
+      internalID: 1807308193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dre_specialattack_120x96_33
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 9
+        width: 50
+        height: 52
+      alignment: 9
+      pivot: {x: 0.47, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803808e99a1149e4b973b7b2badbbbcb
+      internalID: -383367051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Dre_specialattack_120x96_48: 1324721202
+      Dre_specialattack_120x96_35: 883655911
+      Dre_specialattack_120x96_4: 1350558369
+      Dre_specialattack_120x96_11: 1783559405
+      Dre_specialattack_120x96_32: -303777459
+      Dre_specialattack_120x96_22: -1039009028
+      Dre_specialattack_120x96_5: -949045485
+      Dre_specialattack_120x96_40: -410883467
+      Dre_specialattack_120x96_12: 161590223
+      Dre_specialattack_120x96_70: -284210395
+      Dre_specialattack_120x96_23: 2088670144
+      Dre_specialattack_120x96_66: -850819190
+      Dre_specialattack_120x96_63: -446514636
+      Dre_specialattack_120x96_20: -1301298691
+      Dre_specialattack_120x96_33: -383367051
+      Dre_specialattack_120x96_21: 563586423
+      Dre_specialattack_120x96_9: 205638703
+      Dre_specialattack_120x96_0: 2126803739
+      Dre_specialattack_120x96_1: 511092257
+      Dre_specialattack_120x96_55: -2120640260
+      Dre_specialattack_120x96_68: -293528832
+      Dre_specialattack_120x96_25: 1322551094
+      Dre_specialattack_120x96_18: 1463307071
+      Dre_specialattack_120x96_38: 1144987660
+      Dre_specialattack_120x96_67: -971469417
+      Dre_specialattack_120x96_37: -2080714619
+      Dre_specialattack_120x96_36: 2050811906
+      Dre_specialattack_120x96_59: 659098880
+      Dre_specialattack_120x96_52: -73146934
+      Dre_specialattack_120x96_30: 1807308193
+      Dre_specialattack_120x96_47: 352866648
+      Dre_specialattack_120x96_49: 876998133
+      Dre_specialattack_120x96_50: -1280493807
+      Dre_specialattack_120x96_6: 73203941
+      Dre_specialattack_120x96_51: 2072421879
+      Dre_specialattack_120x96_19: -182885329
+      Dre_specialattack_120x96_29: 747981805
+      Dre_specialattack_120x96_27: -2052533782
+      Dre_specialattack_120x96_3: 1400461035
+      Dre_specialattack_120x96_46: 1862193217
+      Dre_specialattack_120x96_57: 1434751424
+      Dre_specialattack_120x96_39: 1351352926
+      Dre_specialattack_120x96_8: -1295197904
+      Dre_specialattack_120x96_53: -1028100338
+      Dre_specialattack_120x96_15: -1689768758
+      Dre_specialattack_120x96_42: -1383545897
+      Dre_specialattack_120x96_44: 296968939
+      Dre_specialattack_120x96_10: 775059408
+      Dre_specialattack_120x96_54: 241366678
+      Dre_specialattack_120x96_34: 355700420
+      Dre_specialattack_120x96_7: 778184816
+      Dre_specialattack_120x96_69: 2111301752
+      Dre_specialattack_120x96_14: 1674484177
+      Dre_specialattack_120x96_28: 1767653246
+      Dre_specialattack_120x96_61: -603201064
+      Dre_specialattack_120x96_65: 1597032094
+      Dre_specialattack_120x96_2: -1936803738
+      Dre_specialattack_120x96_17: -1075509915
+      Dre_specialattack_120x96_26: -1425580871
+      Dre_specialattack_120x96_62: 656713423
+      Dre_specialattack_120x96_64: 814037411
+      Dre_specialattack_120x96_16: 1866411850
+      Dre_specialattack_120x96_56: 648792906
+      Dre_specialattack_120x96_58: -617214254
+      Dre_specialattack_120x96_13: -1026480931
+      Dre_specialattack_120x96_24: 333846838
+      Dre_specialattack_120x96_43: -203144731
+      Dre_specialattack_120x96_60: -1762007341
+      Dre_specialattack_120x96_45: 563154516
+      Dre_specialattack_120x96_41: 1093568712
+      Dre_specialattack_120x96_31: -322318602
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

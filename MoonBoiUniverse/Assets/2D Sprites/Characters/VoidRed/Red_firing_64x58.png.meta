@@ -1,0 +1,441 @@
+fileFormatVersion: 2
+guid: 5d00b96e8b4d6d646b0f6dfbb371df4c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Red_firing_64x58_2
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 13
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.35952297, y: -0.00351192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ada5baaf989304cbe0d2ea0370f64a
+      internalID: 1812350006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_firing_64x58_3
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 13
+        width: 28
+        height: 34
+      alignment: 9
+      pivot: {x: 0.3551328, y: 0.006817285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5783df1d51e67734b99277dfc4a7659e
+      internalID: -1230891377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_firing_64x58_4
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 13
+        width: 32
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c68f1238a8b7e47922d56e62a25010
+      internalID: 941822346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_firing_64x58_5
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 13
+        width: 32
+        height: 27
+      alignment: 9
+      pivot: {x: 0.37686253, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a5a1c84876ead40b89411b4aa548c2
+      internalID: -686262109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_firing_64x58_6
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 13
+        width: 35
+        height: 25
+      alignment: 9
+      pivot: {x: 0.40066266, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5390a160b3a6f4cb7b2736e4c41ab7
+      internalID: -1774036736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_firing_64x58_7
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 13
+        width: 29
+        height: 35
+      alignment: 9
+      pivot: {x: 0.46802914, y: 0.003311239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4512513ffcef1ce42aedc0b1396f8486
+      internalID: -1504308902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_firing_64x58_8
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 9
+        width: 30
+        height: 35
+      alignment: 9
+      pivot: {x: 0.42660013, y: 0.08609259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f096b509766fce547b6e6b373a021351
+      internalID: -1309238236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_firing_64x58_9
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 12
+        width: 28
+        height: 35
+      alignment: 9
+      pivot: {x: 0.55380684, y: 0.03642393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bb32c0bced31b4a8fbffc2d61383a1
+      internalID: 1572675161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_firing_64x58_10
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 13
+        width: 25
+        height: 35
+      alignment: 9
+      pivot: {x: 0.56953615, y: -0.003311239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f5402658177d54fbabeea1efa3d719
+      internalID: 1031676138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_firing_64x58_11
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 13
+        width: 29
+        height: 32
+      alignment: 9
+      pivot: {x: 0.56793845, y: 0.007243365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db28be30ada8fb749bb61c80640eb351
+      internalID: 193600512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_firing_64x58_12
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 13
+        width: 25
+        height: 37
+      alignment: 9
+      pivot: {x: 0.54172117, y: 0.006264532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff8e1923555f80408b3ce4fbd2f8bd6
+      internalID: -1942157074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_firing_64x58_13
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 13
+        width: 29
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5559482, y: -0.0036216676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282b95cc2f13c724d951e2a1f34bb003
+      internalID: -664357778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_firing_64x58_14
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 13
+        width: 27
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5600925, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc6ff46e2e0ba243b8fe03dd480c107
+      internalID: -2066613986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Red_firing_64x58_4: 941822346
+      Red_firing_64x58_16: -807055184
+      Red_firing_64x58_17: -725977162
+      Red_firing_64x58_19: 1211639995
+      Red_firing_64x58_18: -1410935528
+      Red_firing_64x58_5: -686262109
+      Red_firing_64x58_12: -1942157074
+      Red_firing_64x58_2: 1812350006
+      Red_firing_64x58_11: 193600512
+      Red_firing_64x58_20: 1718893792
+      Red_firing_64x58_1: -1759259738
+      Red_firing_64x58_6: -1774036736
+      Red_firing_64x58_0: 291576072
+      Red_firing_64x58_3: -1230891377
+      Red_firing_64x58_9: 1572675161
+      Red_firing_64x58_13: -664357778
+      Red_firing_64x58_8: -1309238236
+      Red_firing_64x58_15: 1207702691
+      Red_firing_64x58_10: 1031676138
+      Red_firing_64x58_14: -2066613986
+      Red_firing_64x58_7: -1504308902
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
