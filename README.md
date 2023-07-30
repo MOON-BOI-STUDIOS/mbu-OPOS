@@ -70,10 +70,4 @@ For more details, refer to the [architecture diagram](./docs/architecture.png).
 - **Upgrade**: Stand in front of an arcade machine to upgrade using Bonk tokens.
 - **Enjoy**: Play the games and have fun!
 
-## Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](./issues) or submit a pull request.
-
-## License
-
 Distributed under the MIT License. See [LICENSE](./LICENSE) for more information.
