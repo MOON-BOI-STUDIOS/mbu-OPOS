@@ -3,7 +3,7 @@
 
 Welcome to a unique top-down isometric 2D RPG, where players can explore a city map and engage in an immersive arcade room experience. This project stands out with its integration of the Solana blockchain, enabling players to upgrade in-game items using Bonk tokens.
 
-[![Game Screenshot](./screenshots/game.png)](https://youtu.be/DO33EDeF61Q)
+[![Watch the video]](https://youtu.be/DO33EDeF61Q)
 
 ## Table of Contents
 
