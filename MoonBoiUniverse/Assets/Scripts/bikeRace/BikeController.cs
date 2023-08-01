@@ -130,7 +130,7 @@ public class BikeController : MonoBehaviour
             Vector3 currentPosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
             float direction = currentPosition.x > targetPosition.x ? 1 : -1;
             float horizontalMoveAmount = Vector3.Distance(currentPosition, targetPosition) * direction;
-            rb.velocity = new Vector2(horizontalMoveAmount, verticalSpeed);
+            rb.velocity = new Vector2(horizontalMoveAmount*30, verticalSpeed);
             targetPosition = currentPosition;
         }
         else

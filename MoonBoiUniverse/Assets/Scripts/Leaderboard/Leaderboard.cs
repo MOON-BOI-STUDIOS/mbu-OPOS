@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 using Dan.Main;
+using UnityEngine.SceneManagement;
 
 public class Leaderboard : MonoBehaviour
 {
@@ -17,8 +18,11 @@ public class Leaderboard : MonoBehaviour
     private int currentScore;
 
 
-    private string publicLeaderboardKey = "1f3224236e1bba874a424de406871d1babb2ef1345046d4c345bb741ddd72a26";
+    public string publicLeaderboardKey;
 
+    [SerializeField]
+    private TMP_InputField raceGameScore;
+   
     private void Start()
     {
         //gets leaderboard on load
@@ -31,6 +35,7 @@ public class Leaderboard : MonoBehaviour
         currentScore = (PlayerPrefs.GetInt("Round") * PlayerPrefs.GetInt("Coins"));
         
         //shows the current score as UI
+        if (SceneManager.GetActiveScene().name!="BikeRace")
         currentScoreUI.text = currentScore.ToString();
     }
 
@@ -57,5 +62,12 @@ public class Leaderboard : MonoBehaviour
         
         LeaderboardCreator.UploadNewEntry(publicLeaderboardKey, inputName.text, currentScore, ((msg) =>
         {            getLeaderboard();        }));
+    }
+
+    public void setLeaderboardEntryforrace()
+    {
+
+        LeaderboardCreator.UploadNewEntry(publicLeaderboardKey, inputName.text, (int)RaceGameManager.inst.score , ((msg) =>
+        { getLeaderboard(); }));
     }
 }

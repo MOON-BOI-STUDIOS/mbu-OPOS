@@ -9,15 +9,21 @@ public class spawnLocationManager : MonoBehaviour
     public GameObject teleportDre;
     public SpriteRenderer dreSprite;
 
+    public static spawnLocationManager Inst;
     private void Awake()
     {
+        Inst = this;
         if(PlayerPrefs.GetInt("LastLocation",0) == 0)
         {
-            teleportDre.SetActive(true);
-            player.GetComponent<PlayerController>().enabled = false;
-            dreSprite.enabled = false;
-            StartCoroutine(teleportDreSequence());
+            telport();
         }
+    }
+    public void telport()
+    {
+        teleportDre.SetActive(true);
+        player.GetComponent<PlayerController>().enabled = false;
+        dreSprite.enabled = false;
+        StartCoroutine(teleportDreSequence());
     }
     // Start is called before the first frame update
     void Start()
@@ -37,6 +43,6 @@ public class spawnLocationManager : MonoBehaviour
         yield return new WaitForSeconds(2);
         player.GetComponent<PlayerController>().enabled = true;
         dreSprite.enabled = true;
-        Destroy(teleportDre);
+        teleportDre.SetActive(false);
     }
 }

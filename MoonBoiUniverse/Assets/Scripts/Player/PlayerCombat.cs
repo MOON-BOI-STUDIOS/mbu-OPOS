@@ -32,11 +32,12 @@ public class PlayerCombat : MonoBehaviour
         comboIndicatorParent.localScale = new Vector3((float)comboCounter / (float)numberOfComboHits * 1, comboIndicatorParent.localScale.y, comboIndicatorParent.localScale.z);
 
         //PC Controls
-        if(Input.GetMouseButtonDown(0))
+#if UNITY_STANDALONE || UNITY_WEBGL
+        if (Input.GetMouseButtonDown(0))
         {
             onAttack();
         }
-
+#endif
     }
 
     public void onAttack()

@@ -56,7 +56,7 @@ public class PlayerManager : MonoBehaviour
         if(curSceneName == "BattleArena")
         {
             //updates the health bar according to current health
-            healthIndicator.localScale = new Vector3(health / maxHealth * 1, healthIndicator.localScale.y, healthIndicator.localScale.z);
+            healthIndicator.localScale = new Vector3(health / maxHealth, healthIndicator.localScale.y, healthIndicator.localScale.z);
             // displays current health in a numerical form
             healthNumber.text = "Health: " + (int)health + " / " + maxHealth;
 

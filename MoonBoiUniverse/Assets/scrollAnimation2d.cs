@@ -9,6 +9,7 @@ public class scrollAnimation2d : MonoBehaviour
     [SerializeField] private Transform targetTransform; // Reference to the Transform component
     [SerializeField] private Image targetImage; // Reference to the Image component
     [SerializeField] private GameObject scrollUI;
+    [SerializeField] private GameObject Joystick;
     // Start is called before the first frame update
 
 
@@ -18,6 +19,9 @@ public class scrollAnimation2d : MonoBehaviour
         {
             PlayerPrefs.SetInt("firstLoad", 1);
             Invoke("AnimateTransformAndImage", 1f);
+#if UNITY_IOS || UNITY_ANDROID
+            Joystick.SetActive(false);
+#endif
         }
         else
         {
@@ -32,14 +36,19 @@ public class scrollAnimation2d : MonoBehaviour
 
     private void AnimateTransformAndImage()
     {
+        targetImage.DOFade(1, 0.1f);
         // Animate the Y position of the Transform from 0 to 500
-        targetTransform.DOLocalMoveY(1500, 30f) // 1 second duration
+        targetTransform.DOLocalMoveY(1450, 28f) // 1 second duration
             .OnComplete(() => // Once the transform animation is complete
             {
                 // Animate the alpha of the Image to zero
-                targetImage.DOFade(0, 1f) // 1 second duration
+                targetImage.DOFade(0, 0.4f) // 1 second duration
                     .OnComplete(() => // Once the image fade is complete
                     {
+#if UNITY_IOS || UNITY_ANDROID
+                        Joystick.SetActive(true);
+#endif
+                        spawnLocationManager.Inst.telport();
                         // Set the GameObject active to false
                         scrollUI.gameObject.SetActive(false);
                     });
