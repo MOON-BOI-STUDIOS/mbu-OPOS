@@ -36,6 +36,7 @@ Welcome to a unique top-down isometric 2D RPG, where players can explore a city 
 - **Magic Block SDK**: For integrating Solana blockchain to handle wallet logins and token transactions.
 - **Solana Blockchain**: Handling secure and fast in-game token transactions.
 - **Bonk Tokens**: In-game tokens used for upgrades.
+- **Solana Mobile Stack**: For integration with the Solana dApp store
 
 ## Game Architecture
 
